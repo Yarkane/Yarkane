@@ -1,16 +1,21 @@
-## Hi there 👋
+## Qui-suis-je ?
 
-<!--
-**Yarkane/Yarkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Samuel dans la vraie vie, Yarkane sur Internet
+- 26 ans
+- Ingénieur en Télécommunications (Insa Lyon TC)
+- Vit en France dans le sud.
 
-Here are some ideas to get you started:
+## Qu'est-ce que je fais (IRL) ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Développement C# et Python majoritairement.
+- Montage et maintenance d'infrastructures Kubernetes.
+- Architecte K8s et Cloud (Azure principalement).
+- Consultant Cybersécurité.
+- Actuellement dans une ESN Lyonnaise.
+
+## Qu'est-ce que je fais (Internet) ?
+- Administrateur (trop) longtemps sur [Herobrine.fr](https://www.herobrine.fr/)
+- Président de l'association 1901 HEROBRINE.
+- Direction technique des projets de développement de l'organisation [Herobrine](https://github.com/HerobrineFR)
+- Maintient mon VPS Yunohost (faites-le !), maintient [CasseCroute](https://github.com/Yarkane/CasseCroute-OCR-Scan) ([package ynh](https://github.com/Yarkane/CasseCroute-OCR-Scan_ynh))
+- [Divers projets vidéos](https://www.youtube.com/@Yarkane) et d'autres choses
